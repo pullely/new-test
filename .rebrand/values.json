@@ -1,0 +1,11 @@
+{
+  "reponame": "new-test",
+  "productname": "new-test",
+  "productdomain": "new-test.dev",
+  "apibaseurl": "https://api.new-test.dev",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "org_c126e518fd9b4cae9706f760c9f8551b",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
